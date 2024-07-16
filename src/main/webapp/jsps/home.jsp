@@ -36,24 +36,20 @@ Monitoring: Prometheus, Grafana</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="100">
+		<img src="images/me.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		Dallas, TX USA, 
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		+91 9422030424
+                akshatb1111@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:akshatb1111@gmail.com">Mail to Akash Bhandari</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://akashbhandari.netlify.app/">Akash Bhandari</a> </small></p>
 
 </body>
 </html>
