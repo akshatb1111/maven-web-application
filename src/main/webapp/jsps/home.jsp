@@ -10,14 +10,29 @@
 </head>
 <body>
 <h1 align="center">Akash Bhandari - AWS-DevOps Engineer! </h1>
-<h1 align="center"> Welcome to my page!.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday August 5, 2020 at 4pm EST for our new batch. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
-	Our anointed and extensive teaching approach takes our students with or without any IT Background to become Subject Matter Expect in IT, and DevOps automation.
-	Over 80% of our students are hired within 6 months of joining Landmark Technology.
-	Congratulations!! Welcome to Landmark Technology!! Welcome to your ENVIABLE IT CAREER.
-	We offer interview preparations and job assitance.
-	The King is in our midst. His name is JESUS. What a wonderful it is. HE IS OUR SUCCESS ACCESS KEY.
-	Thanks for being an ambassador of Landmark Technology. President</h1>
+<h1 align="center"> 0001: Education
+001: Bachelor's in Computer Applications
+0002: Professional Experience
+AWS DevOps Engineer at Fusion Projects pvt. ltd.
+(Aug 2023 - Present)
+Cloud DevOps Engineer at BrightChamps EduTech LLC
+(May 2022 - Jul 2023)
+Business Development Associate at Byju's-IAS
+(NOv 2021 - Mar 2022)
+0003: Skills
+Personal: Problem-Solving, Creative Thinking, Flexibility, Quick Learner
+Operating Systems: Windows, Linux
+DevOps Service: Amazon Web Services (AWS)
+CI/CD: Jenkins
+Containerization: Docker Products
+Configuration management: Ansible
+IAC: Terraform
+Languages: BASH, YAML, Groovy, HCL
+Version control: Git, GitHub
+Package managers: Maven, NPM
+Web Servers: Apache Httpd, Nginx, Apache Tomcat
+Code Quality Check: SonarQube, OWASP, Trivi
+Monitoring: Prometheus, Grafana</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
