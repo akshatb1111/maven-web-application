@@ -31,7 +31,7 @@ Languages: BASH, YAML, Groovy, HCL
 Version control: Git, GitHub
 Package managers: Maven, NPM
 Web Servers: Apache Httpd, Nginx, Apache Tomcat
-Code Quality Check: SonarQube, OWASP, Trivi
+Code Quality Check: SonarQube, OWASP, Trivy
 Monitoring: Prometheus, Grafana</h1>
 <hr>
 <div style="text-align: center;">
