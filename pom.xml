@@ -26,6 +26,13 @@
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+                <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
+                <sonar.language>java</sonar.language>
+                <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
+                <sonar.sources>src/main</sonar.sources>
+                <sonar.tests>src/test</sonar.tests>
+                <sonar.java.binaries>target/classes</sonar.java.binaries>
+                <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 
 	<dependencies>
@@ -78,6 +85,12 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
+		<dependency>
+                        <groupId>junit</groupId>
+                        <artifactId>junit</artifactId>
+                        <version>4.13.1</version>
+                        <scope>test</scope>
+                </dependency>
 	</dependencies>
 	
 	<distributionManagement>
@@ -136,6 +149,25 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.3.1</version>
 			</plugin>
+                        <plugin>
+         <groupId>org.jacoco</groupId>
+         <artifactId>jacoco-maven-plugin</artifactId>
+         <version>0.8.6</version>
+         <executions>
+           <execution>
+             <id>prepare-agent</id>
+             <goals>
+              <goal>prepare-agent</goal>
+             </goals>
+           </execution>
+           <execution>
+             <id>report</id>
+             <goals>
+              <goal>report</goal>
+             </goals>
+           </execution>
+         </executions>
+                </plugin>
 		</plugins>
 	</build>
 </project>
