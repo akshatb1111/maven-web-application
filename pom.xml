@@ -21,18 +21,13 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
+        </properties>
+        <properties>
 		<sonar.host.url>http:3.96.196.171:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-                <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
-                <sonar.language>java</sonar.language>
-                <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
-                <sonar.sources>src/main</sonar.sources>
-                <sonar.tests>src/test</sonar.tests>
-                <sonar.java.binaries>target/classes</sonar.java.binaries>
-                <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>       
 	</properties>
 
 	<dependencies>
