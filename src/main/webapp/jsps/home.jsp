@@ -40,7 +40,7 @@ Monitoring: Prometheus, Grafana</h1>
 	</span>
 	<span style="font-weight: bold;">
 		+91 9422030424
-                akshatb1111@gmail.com
+                abhandari0510@gmail.com
 		<br>
 		<a href="mailto:akshatb1111@gmail.com">Mail to Akash Bhandari</a>
 	</span>
